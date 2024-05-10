@@ -26,7 +26,7 @@ conda activate <env_name>
 jupyter notebook
 ```
 
-Replace `<env_name>` with the name of the Conda environment specified in the `environment.yml` file. This will activate the environment and start Jupyter Notebook, where you can open and run the notebook file.
+Replace `<env_name>` with the name of the Conda environment specified above. This will activate the environment and start Jupyter Notebook, where you can open and run the notebook file.
 
 ## Contributors
 
